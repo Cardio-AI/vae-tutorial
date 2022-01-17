@@ -1,0 +1,2 @@
+model_checkpoint_path: "acdc_model"
+all_model_checkpoint_paths: "acdc_model"
